@@ -19,7 +19,7 @@ A simple Python trivia game to test your knowledge of Python programming concept
    cd Python-Trivia-Game
 4. Run the game:
    ```bash
-   python Trivia Game.py
+   python Trivia_Game.py
 
 ## Customize the Game
 Feel free to add your own questions to the game! Simply edit the Trivia Game.py file and modify the questions dictionary to include questions that interest you. You can also share your customized version with your friends and challenge them to beat your score!
